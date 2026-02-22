@@ -6,7 +6,7 @@ WeChatInfo 是一个基于网页的工具，用于提取并导出微信的聊天
 使用方法 🚀
 1. 访问网页
 
-你可以直接访问工具页面：WeChatInfo
+你可以直接访问工具页面：[WeChatInfo](https://milab-bit.github.io/WeChatInfo/)
 。
 
 2. 上传微信数据库
